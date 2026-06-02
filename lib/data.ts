@@ -254,6 +254,7 @@ export const projects: Project[] = [
       "Building explainable AI to earn medical professional trust",
     ],
     github: "https://github.com/Chandanagayathrig2003",
+    demo: "https://colab.research.google.com/drive/1L8Xf5b-dG1_F62VscvXsF6pgoD2VAda1",
     featured: true,
   },
   {
@@ -285,8 +286,8 @@ export const projects: Project[] = [
       "Handling concurrent booking conflicts gracefully",
       "Building offline-resilient mobile experience",
     ],
-    github: "https://github.com/Chandanagayathrig2003",
-    demo: "#",
+    github: "https://github.com/Chandanagayathrig2003/charge-hub-navigator-app",
+    demo: "https://charge-hub-navigator-app.vercel.app/",
     featured: true,
   },
   {
@@ -318,7 +319,8 @@ export const projects: Project[] = [
       "Ensuring factual accuracy of LLM responses",
       "Real-time streaming with WebSocket reliability",
     ],
-    github: "https://github.com/Chandanagayathrig2003",
+    github: "https://github.com/Chandanagayathrig2003/ai-analysis-system",
+    demo: "https://personal-portfolio-alpha-seven-90.vercel.app/",
     featured: true,
   },
   {
@@ -350,7 +352,8 @@ export const projects: Project[] = [
       "Maintaining conversation context across long sessions",
       "Integrating with calendar and scheduling APIs",
     ],
-    github: "https://github.com/Chandanagayathrig2003",
+    github: "https://github.com/Chandanagayathrig2003/talent-scout-chatbot-buddy",
+    demo: "https://talent-scout-chatbot-buddy.vercel.app/",
     featured: true,
   },
   {
@@ -382,8 +385,8 @@ export const projects: Project[] = [
       "Balancing visual fidelity with Core Web Vitals",
       "Creating accessible yet visually stunning UI",
     ],
-    github: "https://github.com/Chandanagayathrig2003",
-    demo: "#",
+    github: "https://github.com/Chandanagayathrig2003/Personal-portfolio",
+    demo: "https://personal-portfolio-alpha-seven-90.vercel.app/",
     featured: false,
   },
   {
@@ -415,8 +418,8 @@ export const projects: Project[] = [
       "Handling API rate limits gracefully",
       "Cross-browser canvas compatibility",
     ],
-    github: "https://github.com/Chandanagayathrig2003",
-    demo: "#",
+    github: "https://github.com/Chandanagayathrig2003/Meme-genrator",
+    demo: "https://meme-generator-woad-five.vercel.app/",
     featured: false,
   },
   {
